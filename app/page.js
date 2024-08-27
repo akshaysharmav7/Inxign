@@ -121,8 +121,8 @@ export default function Home() {
 
         <p className="absolute mb-[3cm] ml-[12.5cm] text-black w-[500px] max-[1000px]:mr-[2cm] max-[1000px]:w-[400px] font-light text-2xl text-justify max-[800px]:ml-[300px] max-[650px]:text-xl max-[650px]:w-[300px] max-[650px]:ml-[240px] max-[485px]:text-lg max-[485px]:ml-[130px] max-[485px]:w-[220px] max-[485px]:mt-16 max-[350px]:ml-[1.8cm]">
           Hello folks, your time and attention are greatly appreciated. Today,
-          we're excited to share our vision, and the exciting roadmap ahead.
-          Let's embark on this journey together, and thank you for considering
+          we are excited to share our vision, and the exciting roadmap ahead.
+          Let us embark on this journey together, and thank you for considering
           an investment in our innovative venture.
         </p>
         <p className="absolute mt-[22cm] mb-[16cm] font-sans text-4xl font-bold text-[#d6ccb2] ml-[11.5cm] lg:text-4xl md:text-3xl sm:text-2xl max-[650px]:ml-[150px] max-[650px]:text-3xl max-[485px]:mt-[25cm] max-[485px]:text-2xl max-[350px]:ml-[1cm] max-[340px]:-ml-[14px] max-[340px]:text-xl">
